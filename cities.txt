@@ -1,0 +1,11 @@
+1 Pune      0381
+2 Agartala   0562
+3 Agra		 079
+4 Ahemdabad	 03832
+5 Aizwal		 0145
+6 Ajmer		 0571
+7 Aligarh	 0532
+8 Allahabad	 0477
+9 Alleppey	 05962
+10 Almora	 0144
+				 
